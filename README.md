@@ -1,21 +1,5 @@
 # TDW Market
 
-## Deployed Site 
-https://tdwmarket.me/
-
-## Video Presentation Link
-
-https://www.youtube.com/watch?v=tS8krd-wUj4
-
-## Team Members
-
-| Full Name         | Email                              | UTORid   | Stu. No.   | 
-| ----------------- | ---------------------------------- | -------- | ---------- | 
-| Divyam Patel      | divyam.patel@mail.utoronto.ca      | pate1006 | 1006139698 |       
-| Tapas Rastogi     | tapas.rastogi@mail.utoronto.ca     | rastog32 | 1005734608 |
-| Winson Yuan       | winson.yuan@mail.utoronto.ca       | yuanwins | 1006414051 |
-
-
 ## Project Description
 This is a marketplace app which allows: 
 - Users to login through google provider
